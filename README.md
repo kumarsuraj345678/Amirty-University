@@ -1,4 +1,4 @@
-**Amirty University Website**
+# Amirty University Website
 
 This repository contains the source code for the Amirty University website. The website is designed to showcase the university's courses, facilities, and contact information, providing users with an immersive experience and easy access to essential information.
 
